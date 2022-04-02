@@ -5,3 +5,5 @@ cycling
 Musiqi qulaq asmaqi sevirem
 islemeyi sevirem
 >>>>>>> 27b82dd7459b6ce04d586e2bd160972f56811a31
+yeni elaveler
+denemeler
